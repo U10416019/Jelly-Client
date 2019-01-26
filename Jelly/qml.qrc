@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Jelly_mainNote.png</file>
+        <file>Jelly.png</file>
+        <file>Jelly_mainToDoList.png</file>
+        <file>RoomList.qml</file>
+        <file>SidePull.qml</file>
+        <file>FriendList.qml</file>
+        <file>UserInformation.qml</file>
+        <file>SearchFriend.qml</file>
+        <file>Login.qml</file>
+        <file>MessageBox.qml</file>
+        <file>FriendInfoMsgConfirm.qml</file>
+        <file>FriendInfoMsgChat.qml</file>
+        <file>ChatRoom.qml</file>
+        <file>bell.gif</file>
+        <file>Bell.qml</file>
+        <file>BellScrollView.qml</file>
+        <file>UnreadInfoMsgBox.qml</file>
+        <file>ChatRoomMsgInfo.qml</file>
+        <file>Note.qml</file>
+        <file>Jelly_note.png</file>
+        <file>NoteMsgInfo.qml</file>
+    </qresource>
+</RCC>
